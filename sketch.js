@@ -72,3 +72,7 @@ function draw() {
 function mousePressed() {
   ripples.push(new Ripple(mouseX, mouseY)); // Add a new ripple at the mouse position
 }
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
