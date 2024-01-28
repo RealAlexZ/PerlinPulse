@@ -2,6 +2,10 @@
 
 ## Overview
 
+
+https://github.com/RealAlexZ/PerlinPulse/assets/97690118/39cd870f-eb99-4cab-94a0-ac070db74ad5
+
+
 PerlinPulse is a dynamic visualization project built with p5.js, showcasing a mesmerizing grid of animated rectangles whose colors and positions are influenced by Perlin noise, creating a fluid, ever-changing visual experience. Additionally, the project features a fading ripple effect that activates upon mouse clicks, adding an interactive layer to the visualization.
 
 ## Installation
