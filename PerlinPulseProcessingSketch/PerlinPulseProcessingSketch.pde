@@ -79,6 +79,12 @@ void draw() {
       ripples.remove(i);
     }
   }
+  
+  // For recording purposes only
+  //if (frameCount == 360) {
+  //  exit();
+  //}
+  //saveFrame("output/image####.png");
 }
 
 
